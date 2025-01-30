@@ -15,9 +15,13 @@ public class DemoTest5 {
 		int x = 10; 
 		int y = 20; 
 		if (x > y) { 
-			system.out.printlin("Greater"); 
+			System.out.println("Greater"); 
 		}else{ 
-			sysout.out.printlin("Less"); 
+			System.out.println("Less"); 
+		}
+
+		//This is coming from GitHub
+		// Practicing Pulling
 	}
 	
 	
